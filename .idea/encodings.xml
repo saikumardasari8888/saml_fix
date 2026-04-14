@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/rate-admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-api-mgmt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-datasphere/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-docusign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-int-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-jenkins-pipeline/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-login-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-monitor-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-pms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-public-cloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-reports/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-sac/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-sap-cpi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-sap-tms-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-sap-tms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-saphana/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-test-automation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-test-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-user-mgmt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rate-workflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

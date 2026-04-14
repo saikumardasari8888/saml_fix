@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <processorPath useClasspath="false" useProcessorModulePath="true">
+          <entry name="$PROJECT_DIR$" />
+        </processorPath>
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for saparate" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="rate-email" />
+        <module name="rate-datasphere" />
+        <module name="rate-login-server" />
+        <module name="rate-test-automation" />
+        <module name="rate-jenkins-pipeline" />
+        <module name="rate-workflow" />
+        <module name="rate-saphana" />
+        <module name="rate-docusign" />
+        <module name="rate-reports" />
+        <module name="rate-server" />
+        <module name="rate-test-server" />
+        <module name="rate-sap-tms" />
+        <module name="rate-api-mgmt" />
+        <module name="rate-monitor-server" />
+        <module name="rate-sac" />
+        <module name="rate-sap-tms-server" />
+        <module name="rate-user-mgmt" />
+        <module name="rate-pms" />
+        <module name="rate-public-cloud" />
+        <module name="rate-schedule" />
+        <module name="rate-sap-cpi" />
+        <module name="rate-admin-server" />
+        <module name="rate-int-tests" />
+        <module name="rate-commons" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="rate-admin-server" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-api-mgmt" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-commons" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-datasphere" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-docusign" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-email" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-int-tests" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-jenkins-pipeline" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-login-server" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-monitor-server" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-parent" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-pms" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-public-cloud" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-reports" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-sac" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-sap-cpi" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-sap-tms" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-sap-tms-server" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-saphana" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-schedule" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-server" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-test-automation" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-test-server" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-user-mgmt" options="-parameters -Xlint:all -Xlint:-processing" />
+      <module name="rate-workflow" options="-parameters -Xlint:all -Xlint:-processing" />
+    </option>
+  </component>
+</project>
